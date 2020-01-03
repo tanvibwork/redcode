@@ -1,0 +1,36 @@
+.wrap {
+  margin: 0px;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.container {
+  display: inline-block;
+  width: 33%;
+}
+
+
+
+.box {
+  border-radius: 50%;
+  height: 40px;
+  margin: 30px auto;
+  width: 40px;
+}
+.wrap:hover .box {
+    transform: scale(30);
+  }
+.box1 {
+  background: #ff0000;
+  transition: all 300ms;
+}
+
+.box2 {
+  background: #ff0000;
+  transition: all 1s;
+}
+
+.box3 {
+  background: #ff0000;
+  transition: all 3s;
+}
