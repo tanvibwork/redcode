@@ -1,4 +1,4 @@
-#_How to View My Website_
+# How to View My Website
 
 Please go to this link:
 
